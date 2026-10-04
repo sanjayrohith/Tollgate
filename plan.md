@@ -2024,6 +2024,6 @@ proposes messages and never commits.
 | 8 Python client | 8.1–8.4 | 4 |
 | 9 Dashboard | 9.1–9.5 | 5 |
 | 10 Demo and docs | 10.1–10.4 | 4 |
-| **Total** | **46** | **46** |
+| **Total** | **46** | **50** |
 
 Plus any defect-fix commits from Task 10.4, landing the history in the 46–52 range.
